@@ -1,9 +1,0 @@
-name: Ghast Wand
-author: aotgamerz
-main: aot_gamerz\Main
-api: 3.18.0
-version: 1.0.0
-commands:
-  ghastwand:
-   description: "Give Ghast's Wand the powerful Weapon!!"
-   permission: "use.ghast.wand"
