@@ -1,0 +1,4 @@
+name: Scpe Dungeon
+version: 1
+main: aotgamer\Dungeon\Main
+api: 3.0.0
