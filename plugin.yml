@@ -1,6 +1,6 @@
 name: Ghast Wand
 author: aotgamerz
-main: wand\Main
+main: aot_gamerz\Main
 api: 3.18.0
 version: 1.0.0
 commands:
